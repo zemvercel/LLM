@@ -32,5 +32,4 @@ chatbot/
 
 ```
 
-`pip install pymongo langchain pymupdf scikit-learn
-`
+`pip install pymongo langchain pymupdf scikit-learn`
